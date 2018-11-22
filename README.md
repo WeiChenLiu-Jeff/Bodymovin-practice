@@ -1,6 +1,5 @@
 # Bodymovin-practice
 
-
 >#### 請參考 [**Lottie-web**](https://github.com/airbnb/lottie-web)
 ***
 這只是一個測試展示，所以內容很簡單，更複雜的有待以後研究。
